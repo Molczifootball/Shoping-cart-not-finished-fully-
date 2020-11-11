@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TEST2/static/css/main.deb884a9.chunk.css",
+    "main.js": "/TEST2/static/js/main.af2a80b8.chunk.js",
+    "main.js.map": "/TEST2/static/js/main.af2a80b8.chunk.js.map",
+    "runtime-main.js": "/TEST2/static/js/runtime-main.4a0bf09d.js",
+    "runtime-main.js.map": "/TEST2/static/js/runtime-main.4a0bf09d.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/TEST2/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.172e1a49.chunk.js": "/TEST2/static/js/2.172e1a49.chunk.js",
+    "static/js/2.172e1a49.chunk.js.map": "/TEST2/static/js/2.172e1a49.chunk.js.map",
+    "static/js/3.ced38e55.chunk.js": "/TEST2/static/js/3.ced38e55.chunk.js",
+    "static/js/3.ced38e55.chunk.js.map": "/TEST2/static/js/3.ced38e55.chunk.js.map",
+    "index.html": "/TEST2/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/TEST2/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.deb884a9.chunk.css.map": "/TEST2/static/css/main.deb884a9.chunk.css.map",
+    "static/js/2.172e1a49.chunk.js.LICENSE.txt": "/TEST2/static/js/2.172e1a49.chunk.js.LICENSE.txt",
+    "static/media/headphones.054e2115.png": "/TEST2/static/media/headphones.054e2115.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0bf09d.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.172e1a49.chunk.js",
+    "static/css/main.deb884a9.chunk.css",
+    "static/js/main.af2a80b8.chunk.js"
+  ]
+}
