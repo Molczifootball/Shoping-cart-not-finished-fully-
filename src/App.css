@@ -1,0 +1,42 @@
+#cartview{
+  width:1150px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+#summary{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+table{
+  background-color: white;
+  border: 0.5px solid gray;
+}
+#product{
+  width: 800px;
+}
+
+.table td, .table th{
+  vertical-align: middle;
+}
+
+.table th, li{
+  font-weight: 700;
+  color: gray;
+}
+h2{
+  color: gray;
+}
+div.card-header{
+  color: black;
+  font-weight: 700;
+}
+.button1{
+  width: fit-content;
+  float:right;
+}
+.Qty{
+  width:30px;
+}
